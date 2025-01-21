@@ -1,2 +1,12 @@
 # Common Vulnerabilities and Exposures (CVE)
-Common Vulnerabilities and Exposures (CVE) is a publicly available list of standardized identifiers for known cybersecurity vulnerabilities. Each CVE entry provides a unique ID, a brief description, and references to publicly available information or fixes, enabling consistent tracking and management of security flaws across software and systems.
+
+This repository contains a collection of Common Vulnerabilities and Exposures (CVEs) that have been assigned to me. These vulnerabilities represent security flaws identified in various software and systems, which have been publicly documented to help organizations address and mitigate potential threats.
+
+
+
+
+
+
+
+
+
